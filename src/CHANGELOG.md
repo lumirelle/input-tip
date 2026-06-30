@@ -2,6 +2,10 @@
 
 # 版本更新日志
 
+## 4.0.0
+
+- Integrate my opinionated configurations for out-of-box experience.
+
 ## 3.6.9
 
 - 为 `状态提示 - 窗口边框` 添加 `边框宽度` 配置
